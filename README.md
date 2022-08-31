@@ -16,7 +16,7 @@
 
 + Faça o clone do arquivo web
 + Ao abrir a pasta do arquivo rode ```npm install``` ou ```yarn install``` no cmd
-+ Faça o clone da api: https://github.com/JuanLima10/goFluxApi.git
++ Faça o clone da api: https://github.com/JuanLima10/Microblog-Backend.git
 + Vá na pasta api em src/pages/api e coloque a URL em que a api está sendo executada
 + Inicie o projeto com ```yarn dev``` no cmd
 
