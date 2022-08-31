@@ -1,4 +1,9 @@
 # MicroBlog FrontEnd
+<div align="center">
+<img style="margin: 18px;" height="380em" src="./public/project-img.png"/>
+</div>
+
+</br>
 
 ### Esse site foi desenvolvido como processo seletivo para vaga de desenvolvedor fullstack na empresa <a href="https://trapi.com.br">Trapi</a>
 
@@ -14,11 +19,11 @@
 
 ## ✨ Como usar:
 
-+ Faça o clone do arquivo web
-+ Ao abrir a pasta do arquivo rode ```npm install``` ou ```yarn install``` no cmd
++ Faça o clone do projeto
++ Ao abrir a pasta do arquivo rode ```npm install``` ou ```yarn install```
 + Faça o clone da api: https://github.com/JuanLima10/Microblog-Backend.git
-+ Vá na pasta api em src/pages/api e coloque a URL em que a api está sendo executada
-+ Inicie o projeto com ```yarn dev``` no cmd
++ Vá em "api.ts" na pasta src/pages/api e coloque a URL em que a api está sendo executada
++ Inicie o projeto com ```yarn dev```
 
 ## 🧾 My Contacts:
 
